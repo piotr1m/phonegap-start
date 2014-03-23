@@ -6,16 +6,17 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Piotr Mackow</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        To jest aplikacja testowa UEK.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
+    <author href="http://phonegap.com" email="piotr1m@poczta.fm">
         PhoneGap Team
     </author>
-
+    <!-- Platforms -->
+    <gap:platform name="android" />
     <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
